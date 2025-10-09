@@ -6,4 +6,13 @@ Each exercise lives in it's own branch
 
 ## Task
 
-Checkout 02-exercise branch
+Create branch for second exercise and pull it's changes from remote repository 
+(This will be done for each fallowing exercise)
+
+
+## Usefull commands
+
+```
+git checkout
+git pull
+```
