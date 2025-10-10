@@ -8,7 +8,6 @@ Delete pledge.txt file and commit, then reset commit
 ## Usefull commands
 
 ```
-git commit
-git push
+git reset
 ```
 
