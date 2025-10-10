@@ -1,0 +1,14 @@
+# The Git Learner's Pledge
+
+1.  <Name> will always check my status with 'git status'.
+2.  <Name> will write clear, descriptive commit messages.
+3.  <Name> will stage my changes using 'git add'.
+4.  <Name> will save my changes using 'git commit'.
+5.  <Name> will remember that Git is my friend, not my enemy.
+6. 5)ejYpk++yzl܅b!jx
+---
+Read by:
+- Student A:
+- Student B:
+- Student C:
+- [STUDENT]
